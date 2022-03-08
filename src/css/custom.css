@@ -49,7 +49,7 @@ html {
   border-top-right-radius: 10px;
 }
 
-html[data-theme='dark'] {
+/*html[data-theme='dark'] {
   --ifm-color-primary: #2D50E9;
   --ifm-color-primary-dark: #2d50e9;
   --ifm-color-primary-darker: #2d50e9;
@@ -61,6 +61,18 @@ html[data-theme='dark'] {
 
   --announce-1: #0243c5;
   --announce-2: #2d50e9;
+}*/
+
+html[data-theme='dark'] .head {
+  color: white;
+}
+
+html[data-theme='dark'] .shortabout {
+  color: white;
+}
+
+html[data-theme='dark'] .navbar__item, .navbar__link {
+  color: #001b92;
 }
 
 
@@ -118,6 +130,10 @@ html[data-theme='dark'] .hero__title {
 html[data-theme='dark'] .hero__subtitle {
   color: white;
   font-weight: 600;
+}
+
+html[data-theme='dark'] .row {
+  color: white;
 }
 
 .hero--primary {
@@ -258,9 +274,6 @@ h1, h2, h3, h4, h5, h6, p, small, li, a, button, input, textarea, label, span, d
   text-align: center;
 }
 
-svg {
-  fill: #2D50E9;
-}
 
 /* width */
 ::-webkit-scrollbar {
@@ -297,3 +310,4 @@ div[class^='announcementBar_'] {
   font-weight: bold;
   color: white;
 }
+
