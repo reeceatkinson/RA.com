@@ -48,9 +48,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'light',
         disableSwitch: false,
-        respectPrefersColorScheme: false,
+        respectPrefersColorScheme: true,
       },
       navbar: {
         logo: {
@@ -68,12 +67,6 @@ const config = {
           {to: '/contact', label: 'Contact Me', position: 'left'},
           {to: '/showcase', label: 'Showcase', position: 'left'},
           {to: '/websitemake', label: 'Want a website?', position: 'right'},
-
-          /*{
-            href: 'https://github.com/users/reeceatkinson/projects/9',
-            label: 'My Roadmap',
-            position: 'right',
-          },*/
         ],
       },
       footer: {

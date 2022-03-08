@@ -41,7 +41,7 @@ export default function Home() {
 
       <main>
 
-      <CookieConsent debug={true}>This site uses cookies like Google Analytics and Google Tag Manager to operate.</CookieConsent>
+      <CookieConsent>This site uses cookies like Google Analytics and Google Tag Manager to operate.</CookieConsent>
 
         <Helmet>
           <meta name="google-site-verification" content="yzvU1ww5JD45dSY0qjuOEpWI8KCw9Zr00mj6oP7F3V4" />
