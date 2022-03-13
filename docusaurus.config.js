@@ -77,7 +77,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar-1', // Increment on change
-        content: `Welcome to my new website! I am actively working on it so somethings aren't fully finished yet...`,
+        content: `Welcome to my new website! I am actively working on it so somethings aren't fully finished yet!`,
       },
       announcementBar: {
         id: 'announcementBar-2', // Increment on change
