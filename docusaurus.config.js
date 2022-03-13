@@ -30,6 +30,7 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/reeceatkinson/reeceatkinson.github.io',
         },
+        docs: false,
         blog: {
           showReadingTime: true,
         },
@@ -65,6 +66,7 @@ const config = {
           },*/
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/contact', label: 'Contact Me', position: 'left'},
+          {to: '/timeline', label: 'My Moments', position: 'left'},
           {to: '/showcase', label: 'Showcase', position: 'left'},
           {to: '/websitemake', label: 'Want a website?', position: 'right'},
         ],
@@ -80,6 +82,27 @@ const config = {
       announcementBar: {
         id: 'announcementBar-2', // Increment on change
         content: `Support Ukraine 🇺🇦 <a href="https://opensource.facebook.com/support-ukraine" target="_blank" rel="noopener noreferrer">Help Provide Humanitarian Aid to Ukraine.</a>`,
+      },
+      announcementBar: {
+        id: 'announcementBar-4', // Increment on change
+        content: `I just published my thoughts on the new Mac Studio and Studio Display 🥳. You can read more about it <a href="/blog/macstudio" target="_blank" rel="noopener noreferrer">here.</a>`,
+      },
+
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'R6R818NO8K',
+
+        placeholder: 'Search...',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'b7b43981d7cc831dee9fd2b5735764c4',
+  
+        indexName: 'reeceatkinson',
+    
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+  
+        //... other Algolia params
       },
       prism: {
         theme: lightCodeTheme,

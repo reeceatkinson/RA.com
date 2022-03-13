@@ -1,10 +1,8 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import { Helmet } from "react-helmet";
 import CookieConsent from "react-cookie-consent";
 
@@ -130,7 +128,7 @@ export default function Home() {
           <h2 style={{color: "#ffbb00"}}>[WIP] Grid:</h2>
           <p style={{color: "ffafd0"}}>A place where people meet collaboration with whiteboards and seamless sharing.</p>
         </div>
-        <br />
+        <br />       
 
       </main>
       <br />
