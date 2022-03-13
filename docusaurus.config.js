@@ -66,7 +66,6 @@ const config = {
           },*/
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/contact', label: 'Contact Me', position: 'left'},
-          {to: '/timeline', label: 'My Moments', position: 'left'},
           {to: '/showcase', label: 'Showcase', position: 'left'},
           {to: '/websitemake', label: 'Want a website?', position: 'right'},
         ],
