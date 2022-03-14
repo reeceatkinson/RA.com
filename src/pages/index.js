@@ -60,12 +60,13 @@ export default function Home() {
               </ul>
             </div>
             <div>
-              <h2 class='gridmobilehead'>Frameworks:</h2>
+              <h2 class='gridmobilehead'>Web Frameworks:</h2>
               <ul>
                 <li>React</li>
                 <li>Docusaurus</li>
                 <li>SwiftUI (Starter)</li>
-                <li>Material Design</li>
+                <li>Google Material Design</li>
+                <li>Microsoft Fluent UI</li>
               </ul>
             </div>
             <div>
@@ -127,8 +128,8 @@ export default function Home() {
         </div>
         <br />
         <div class="project" style={{backgroundColor: "#ffedbd"}}>
-          <h2 style={{color: "#ffbb00"}}>[WIP] Grid:</h2>
-          <p style={{color: "ffafd0"}}>A place where people meet collaboration with whiteboards and seamless sharing.</p>
+          <h2 style={{color: "#ffbb00"}}>[WIP] Studio:</h2>
+          <p style={{color: "ffafd0"}}>A browser where people can get more done as a team with secure SSO.</p>
         </div>
         <br />       
 
