@@ -63,6 +63,7 @@ export default function Home() {
               <h2 class='gridmobilehead'>Web Frameworks:</h2>
               <ul>
                 <li>React</li>
+                <li>Electron</li>
                 <li>Docusaurus</li>
                 <li>SwiftUI (Starter)</li>
                 <li>Google Material Design</li>
@@ -97,6 +98,8 @@ export default function Home() {
                 <li>Docusaurus</li>
                 <li>SwiftUI (Starter)</li>
                 <li>Material Design</li>
+                <li>Electron</li>
+                <li>Microsoft Fluent UI</li>
               </ul>
             </div>
             <div>
