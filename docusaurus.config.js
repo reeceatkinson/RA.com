@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Reece Atkinson',
   tagline: 'I am a frontend developer that focuses on the users experience of design and speed. ',
-  url: 'https://reeceatkinson.github.io',
+  url: 'https://reece.ml',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
