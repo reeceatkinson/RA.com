@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'reeceatkinson', // Usually your GitHub org/user name.
-  projectName: 'reeceatkinson.github.io', // Usually your repo name.
+  projectName: 'reece.ml', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   noIndex: false, // Defaults to `false`
 
