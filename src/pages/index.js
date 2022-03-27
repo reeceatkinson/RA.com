@@ -66,8 +66,9 @@ export default function Home() {
                 <li>Electron</li>
                 <li>Docusaurus</li>
                 <li>SwiftUI (Starter)</li>
-                <li>Google Material Design</li>
+                <li>Google Material Design 3</li>
                 <li>Microsoft Fluent UI</li>
+                <li>Bootstrap</li>
               </ul>
             </div>
             <div>
@@ -95,11 +96,12 @@ export default function Home() {
               <h2 class='shortabout'>Frameworks:</h2>
               <ul class="aboutul">
                 <li>React</li>
+                <li>Electron</li>
                 <li>Docusaurus</li>
                 <li>SwiftUI (Starter)</li>
-                <li>Material Design</li>
-                <li>Electron</li>
+                <li>Google Material Design 3</li>
                 <li>Microsoft Fluent UI</li>
+                <li>Bootstrap</li>
               </ul>
             </div>
             <div>
