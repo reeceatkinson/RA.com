@@ -7,6 +7,12 @@
 /* You can override the default Infima variables here. */
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,400&family=Roboto:wght@300;400;500;700;900&display=swap');
+@font-face {
+  font-family: Atkinson Sans;
+  src: url(https://reeceatkinson.github.io/atkinsonsans/Manrope-Bold.woff2);
+}
+
+
 :root {
   --ifm-color-primary: #2D50E9;
   --ifm-color-primary-dark: #2d50e9;
@@ -119,7 +125,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 .hero__title {
   color: #ffafd0;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: Atkinson Sans, 'Roboto Condensed', sans-serif;
   font-size: 70px;
   line-height: 45px;
 }
@@ -128,7 +134,7 @@ html[data-theme='dark'] .hero__title {
 }
 .hero__subtitle {
   color: white;
-  font-family: 'Roboto', monospace;
+  font-family: Atkinson Sans, 'Roboto', monospace;
   font-weight: 600;
 }
 html[data-theme='dark'] .hero__subtitle {
@@ -201,7 +207,7 @@ html[data-theme='dark'] .row {
 
   .hero__title {
     color: #ffafd0;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: Atkinson Sans, 'Roboto Condensed', sans-serif;
     font-size: 50px;
     line-height: normal;
   }
@@ -217,7 +223,7 @@ html[data-theme='dark'] .row {
 }
 
 h1, h2, h3, h4, h5, h6, p, small, li, a, button, input, textarea, label, span, div {
-  font-family: 'Roboto', sans-serif;
+  font-family: Atkinson Sans, 'Roboto', sans-serif;
 }
 
 .footer {
@@ -254,7 +260,7 @@ h1, h2, h3, h4, h5, h6, p, small, li, a, button, input, textarea, label, span, d
 .head {
   color: #2D50E9;
   font-size: 55px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: Atkinson Sans, 'Roboto Condensed', sans-serif;
   text-decoration: underline;
   text-decoration-color: #ffafd0 !important;
 }
@@ -266,7 +272,7 @@ h1, h2, h3, h4, h5, h6, p, small, li, a, button, input, textarea, label, span, d
 .shortabout {
   color: #001B92;
   font-size: 35px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: Atkinson Sans, 'Roboto Condensed', sans-serif;
 }
 
 .social {
