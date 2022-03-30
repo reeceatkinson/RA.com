@@ -35,6 +35,9 @@ export default function Home() {
         <a target="_blank" href='https://codepen.io/reeceatkinson'>
           <i style={{color: "#2D50E9"}} class="fa-brands fa-codepen"></i>
         </a>
+        <a target="_blank" href='https://g.dev/reeceatkinson'>
+          <i style={{color: "#2D50E9"}} class="fa-brands fa-google"></i>
+        </a>
       </div>
 
       <main>
