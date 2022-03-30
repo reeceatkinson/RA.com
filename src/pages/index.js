@@ -125,7 +125,7 @@ export default function Home() {
         <div class="project">
           <h2>Vivid Blue:</h2>
           <p>Vivid Blue uses variety of blues to differentiate sections of the IDE and adds bold colours to your evnvironment. <a class="projecta" href='https://marketplace.visualstudio.com/items?itemName=reece.vivid-blue'>Go to VS Code Marketplace</a></p>
-          <a href="https://www.producthunt.com/posts/vivid-blue-vs-code-theme?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-vivid&#0045;blue&#0045;vs&#0045;code&#0045;theme" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=338444&theme=light" alt="Vivid&#0032;Blue&#0032;&#0040;VS&#0032;Code&#0032;Theme&#0041; - A&#0032;variety&#0032;of&#0032;different&#0032;blues&#0032;for&#0032;your&#0032;VS&#0032;Code | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>        </div>
+        </div>
         <br />
         <div class="project">
           <h2>TLDR Policies:</h2>
