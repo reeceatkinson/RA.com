@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Reece Atkinson Blog</title>
+        <link>https://reece.ml/blog</link>
+        <description>Reece Atkinson Blog</description>
+        <lastBuildDate>Thu, 10 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My thoughts on the Mac Studio and Studio Display]]></title>
+            <link>https://reece.ml/blog/macstudio</link>
+            <guid>macstudio</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. My Predictions were correct]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="1-my-predictions-were-correct">1. My Predictions were correct<a class="hash-link" href="#1-my-predictions-were-correct" title="Direct link to heading">​</a></h2><ul><li>iPhone SE ✅</li><li>iPhone 13 (Green Colour) ✅ (&amp; Alpine Green)</li><li>iPad Air (Colours and 5G) ✅</li><li>Mystery Mac??? ✅ (Mac Studio)</li><li>Service Updates ✅ (Apple TV+)</li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="2-the-mac-studio">2. The Mac Studio<a class="hash-link" href="#2-the-mac-studio" title="Direct link to heading">​</a></h2><p>The Mac Studio is a taller version of the Mac Mini...</p><img src="https://www.apple.com/newsroom/images/product/mac/standard/Apple-Mac-Studio-Studio-Display-hero-220308_big.jpg.large_2x.jpg" class="blogimg"><p>I believe the Mac Studio will be great for people who need a halfway between the Mac Mini and Mac Pro as it has the most powerful chip in Apple's lineup called the M1 Ultra which is M1 Max's put together with a feature they hid from the chip.</p><p>They also claim that the studio is faster than the Mac Pro. Which leads me to believe the new and upcoming Mac Pro must have 2 <strong>or more</strong> of the Ultra chips?</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="3-the-studio-display">3. The Studio Display<a class="hash-link" href="#3-the-studio-display" title="Direct link to heading">​</a></h2><img src="https://www.apple.com/newsroom/images/product/mac/standard/Apple-Studio-Display-Magic-Trackpad-Keyboard-Mouse-220308_big.jpg.large_2x.jpg" class="blogimg"><p>The Studio Display in my opinion is stunning...</p><ul><li>It has a built in webcam</li><li>Hey Siri built in</li><li>Spatial Audio Speakers</li></ul><p><strong>What more could you want from a display?</strong></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="4-where-can-i-get-it">4. Where can I get it?<a class="hash-link" href="#4-where-can-i-get-it" title="Direct link to heading">​</a></h2><p>You can go to <strong>apple.com</strong> or to an <strong>Apple Store or anywhere that sells Apple products</strong></p>]]></content:encoded>
+            <category>apple</category>
+            <category>studio</category>
+            <category>development</category>
+            <category>environment</category>
+        </item>
+        <item>
+            <title><![CDATA[What I expect from the Spring Apple Event]]></title>
+            <link>https://reece.ml/blog/applespringevt</link>
+            <guid>applespringevt</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I expect Apple to announce multiple products tommorow:]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="i-expect-apple-to-announce-multiple-products-tommorow">I expect Apple to announce multiple products tommorow:<a class="hash-link" href="#i-expect-apple-to-announce-multiple-products-tommorow" title="Direct link to heading">​</a></h2><ul><li>iPhone SE</li><li>iPhone 13 (Green Colour)</li><li>iPad Air (Colours and 5G)</li><li>Mystery Mac???</li><li>Service Updates</li></ul><p>If there is anymore I would be very surprised!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-do-i-think-there-is-a-mystery-mac">Why do I think there is a mystery Mac?<a class="hash-link" href="#why-do-i-think-there-is-a-mystery-mac" title="Direct link to heading">​</a></h2><p>The fact that the event is called <strong>Peek Performance</strong> I believe that they want to <strong>peek</strong> into the future of the Mac with their Apple Silcons which would refer to the <strong>performace</strong> point of view.</p>]]></content:encoded>
+            <category>apple</category>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Electric Purple]]></title>
+            <link>https://reece.ml/blog/theme</link>
+            <guid>theme</guid>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing Electric Purple...]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="introducing-electric-purple">Introducing Electric Purple...<a class="hash-link" href="#introducing-electric-purple" title="Direct link to heading">​</a></h2><p>Electric purple is a theme that relieves and prevents eye strain by maintaining dark mode but also adding a pop of colour to developers workspaces.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="hitting-100-installs">Hitting 100 installs...<a class="hash-link" href="#hitting-100-installs" title="Direct link to heading">​</a></h2><p>Electric Purple is coming to 100 installs rapidly and I cannot wait to see how developers feel about it.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="whats-next">What's Next?<a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h2><p>By Dec 2022 I will be publishing a new theme (which is my favourite colour) Electric Blue. I will post an update about this very soon!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="product-hunt">Product Hunt<a class="hash-link" href="#product-hunt" title="Direct link to heading">​</a></h2><p>I launched on Product Hunt a while ago but any upvotes would still really help me! <a href="https://www.producthunt.com/posts/electric-purple-vs-code-theme" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/posts/electric-purple-vs-code-theme</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="install-the-theme">Install the theme<a class="hash-link" href="#install-the-theme" title="Direct link to heading">​</a></h2><p>You can head over to the VS Code Marketplace and search "Electric Purple" or click the link below... <a href="https://marketplace.visualstudio.com/items?itemName=reece.electric-purple" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=reece.electric-purple</a></p><h4 class="anchor anchorWithStickyNavbar_mojV" id="thanks-for-reading-and-i-hope-you-enjoy-the-theme">Thanks for reading and I hope you enjoy the theme,<a class="hash-link" href="#thanks-for-reading-and-i-hope-you-enjoy-the-theme" title="Direct link to heading">​</a></h4><p>(But if you don't that's fine aswell)</p>]]></content:encoded>
+            <category>developer</category>
+            <category>vscode</category>
+            <category>theme</category>
+        </item>
+        <item>
+            <title><![CDATA[What I use in my day to day!]]></title>
+            <link>https://reece.ml/blog/everyday</link>
+            <guid>everyday</guid>
+            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[What I use nearly everyday]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="what-i-use-nearly-everyday">What I use nearly everyday<a class="hash-link" href="#what-i-use-nearly-everyday" title="Direct link to heading">​</a></h3><p>I use what most developers use really...</p><ul><li>GitHub</li><li>StackOverflow</li><li>GitHub Codespaces</li><li>Apple Mail</li><li>Apple Music</li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="tech-wise">Tech wise?<a class="hash-link" href="#tech-wise" title="Direct link to heading">​</a></h3><ul><li>Microsoft Surface Laptop</li><li>iPad</li><li>iPhone</li><li>Apple Watch</li></ul>]]></content:encoded>
+            <category>everyday</category>
+            <category>tools</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to my new website!]]></title>
+            <link>https://reece.ml/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing Electric Purple...]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="introducing-electric-purple">Introducing Electric Purple...<a class="hash-link" href="#introducing-electric-purple" title="Direct link to heading">​</a></h2><p>Electric purple is a theme that relieves and prevents eye strain by maintaining dark mode but also adding a pop of colour to developers workspaces.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="hitting-100-installs">Hitting 100 installs...<a class="hash-link" href="#hitting-100-installs" title="Direct link to heading">​</a></h2><p>Electric Purple is coming to 100 installs rapidly and I cannot wait to see how developers feel about it.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="whats-next">What's Next?<a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h2><p>By Dec 2022 I will be publishing a new theme (which is my favourite colour) Electric Blue. I will post an update about this very soon!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="product-hunt">Product Hunt<a class="hash-link" href="#product-hunt" title="Direct link to heading">​</a></h2><p>I launched on Product Hunt a while ago but any upvotes would still really help me! <a href="https://www.producthunt.com/posts/electric-purple-vs-code-theme" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/posts/electric-purple-vs-code-theme</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="install-the-theme">Install the theme<a class="hash-link" href="#install-the-theme" title="Direct link to heading">​</a></h2><p>You can head over to the VS Code Marketplace and search "Electric Purple" or click the link below... <a href="https://marketplace.visualstudio.com/items?itemName=reece.electric-purple" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=reece.electric-purple</a></p><h4 class="anchor anchorWithStickyNavbar_mojV" id="thanks-for-reading-and-i-hope-you-enjoy-the-theme">Thanks for reading and I hope you enjoy the theme,<a class="hash-link" href="#thanks-for-reading-and-i-hope-you-enjoy-the-theme" title="Direct link to heading">​</a></h4><p>(But if you don't that's fine aswell)</p>]]></content:encoded>
+            <category>website</category>
+            <category>hello</category>
+        </item>
+    </channel>
+</rss>

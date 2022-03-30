@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://reece.ml/blog</id>
+    <title>Reece Atkinson Blog</title>
+    <updated>2022-03-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://reece.ml/blog"/>
+    <subtitle>Reece Atkinson Blog</subtitle>
+    <icon>https://reece.ml/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[My thoughts on the Mac Studio and Studio Display]]></title>
+        <id>macstudio</id>
+        <link href="https://reece.ml/blog/macstudio"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. My Predictions were correct]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="1-my-predictions-were-correct">1. My Predictions were correct<a class="hash-link" href="#1-my-predictions-were-correct" title="Direct link to heading">​</a></h2><ul><li>iPhone SE ✅</li><li>iPhone 13 (Green Colour) ✅ (&amp; Alpine Green)</li><li>iPad Air (Colours and 5G) ✅</li><li>Mystery Mac??? ✅ (Mac Studio)</li><li>Service Updates ✅ (Apple TV+)</li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="2-the-mac-studio">2. The Mac Studio<a class="hash-link" href="#2-the-mac-studio" title="Direct link to heading">​</a></h2><p>The Mac Studio is a taller version of the Mac Mini...</p><img src="https://www.apple.com/newsroom/images/product/mac/standard/Apple-Mac-Studio-Studio-Display-hero-220308_big.jpg.large_2x.jpg" class="blogimg"><p>I believe the Mac Studio will be great for people who need a halfway between the Mac Mini and Mac Pro as it has the most powerful chip in Apple's lineup called the M1 Ultra which is M1 Max's put together with a feature they hid from the chip.</p><p>They also claim that the studio is faster than the Mac Pro. Which leads me to believe the new and upcoming Mac Pro must have 2 <strong>or more</strong> of the Ultra chips?</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="3-the-studio-display">3. The Studio Display<a class="hash-link" href="#3-the-studio-display" title="Direct link to heading">​</a></h2><img src="https://www.apple.com/newsroom/images/product/mac/standard/Apple-Studio-Display-Magic-Trackpad-Keyboard-Mouse-220308_big.jpg.large_2x.jpg" class="blogimg"><p>The Studio Display in my opinion is stunning...</p><ul><li>It has a built in webcam</li><li>Hey Siri built in</li><li>Spatial Audio Speakers</li></ul><p><strong>What more could you want from a display?</strong></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="4-where-can-i-get-it">4. Where can I get it?<a class="hash-link" href="#4-where-can-i-get-it" title="Direct link to heading">​</a></h2><p>You can go to <strong>apple.com</strong> or to an <strong>Apple Store or anywhere that sells Apple products</strong></p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="apple" term="apple"/>
+        <category label="studio" term="studio"/>
+        <category label="development" term="development"/>
+        <category label="environment" term="environment"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I expect from the Spring Apple Event]]></title>
+        <id>applespringevt</id>
+        <link href="https://reece.ml/blog/applespringevt"/>
+        <updated>2022-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I expect Apple to announce multiple products tommorow:]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="i-expect-apple-to-announce-multiple-products-tommorow">I expect Apple to announce multiple products tommorow:<a class="hash-link" href="#i-expect-apple-to-announce-multiple-products-tommorow" title="Direct link to heading">​</a></h2><ul><li>iPhone SE</li><li>iPhone 13 (Green Colour)</li><li>iPad Air (Colours and 5G)</li><li>Mystery Mac???</li><li>Service Updates</li></ul><p>If there is anymore I would be very surprised!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-do-i-think-there-is-a-mystery-mac">Why do I think there is a mystery Mac?<a class="hash-link" href="#why-do-i-think-there-is-a-mystery-mac" title="Direct link to heading">​</a></h2><p>The fact that the event is called <strong>Peek Performance</strong> I believe that they want to <strong>peek</strong> into the future of the Mac with their Apple Silcons which would refer to the <strong>performace</strong> point of view.</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="apple" term="apple"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Electric Purple]]></title>
+        <id>theme</id>
+        <link href="https://reece.ml/blog/theme"/>
+        <updated>2022-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Electric Purple...]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="introducing-electric-purple">Introducing Electric Purple...<a class="hash-link" href="#introducing-electric-purple" title="Direct link to heading">​</a></h2><p>Electric purple is a theme that relieves and prevents eye strain by maintaining dark mode but also adding a pop of colour to developers workspaces.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="hitting-100-installs">Hitting 100 installs...<a class="hash-link" href="#hitting-100-installs" title="Direct link to heading">​</a></h2><p>Electric Purple is coming to 100 installs rapidly and I cannot wait to see how developers feel about it.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="whats-next">What's Next?<a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h2><p>By Dec 2022 I will be publishing a new theme (which is my favourite colour) Electric Blue. I will post an update about this very soon!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="product-hunt">Product Hunt<a class="hash-link" href="#product-hunt" title="Direct link to heading">​</a></h2><p>I launched on Product Hunt a while ago but any upvotes would still really help me! <a href="https://www.producthunt.com/posts/electric-purple-vs-code-theme" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/posts/electric-purple-vs-code-theme</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="install-the-theme">Install the theme<a class="hash-link" href="#install-the-theme" title="Direct link to heading">​</a></h2><p>You can head over to the VS Code Marketplace and search "Electric Purple" or click the link below... <a href="https://marketplace.visualstudio.com/items?itemName=reece.electric-purple" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=reece.electric-purple</a></p><h4 class="anchor anchorWithStickyNavbar_mojV" id="thanks-for-reading-and-i-hope-you-enjoy-the-theme">Thanks for reading and I hope you enjoy the theme,<a class="hash-link" href="#thanks-for-reading-and-i-hope-you-enjoy-the-theme" title="Direct link to heading">​</a></h4><p>(But if you don't that's fine aswell)</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="developer" term="developer"/>
+        <category label="vscode" term="vscode"/>
+        <category label="theme" term="theme"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I use in my day to day!]]></title>
+        <id>everyday</id>
+        <link href="https://reece.ml/blog/everyday"/>
+        <updated>2022-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What I use nearly everyday]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="what-i-use-nearly-everyday">What I use nearly everyday<a class="hash-link" href="#what-i-use-nearly-everyday" title="Direct link to heading">​</a></h3><p>I use what most developers use really...</p><ul><li>GitHub</li><li>StackOverflow</li><li>GitHub Codespaces</li><li>Apple Mail</li><li>Apple Music</li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="tech-wise">Tech wise?<a class="hash-link" href="#tech-wise" title="Direct link to heading">​</a></h3><ul><li>Microsoft Surface Laptop</li><li>iPad</li><li>iPhone</li><li>Apple Watch</li></ul>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="everyday" term="everyday"/>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to my new website!]]></title>
+        <id>welcome</id>
+        <link href="https://reece.ml/blog/welcome"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Electric Purple...]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="introducing-electric-purple">Introducing Electric Purple...<a class="hash-link" href="#introducing-electric-purple" title="Direct link to heading">​</a></h2><p>Electric purple is a theme that relieves and prevents eye strain by maintaining dark mode but also adding a pop of colour to developers workspaces.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="hitting-100-installs">Hitting 100 installs...<a class="hash-link" href="#hitting-100-installs" title="Direct link to heading">​</a></h2><p>Electric Purple is coming to 100 installs rapidly and I cannot wait to see how developers feel about it.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="whats-next">What's Next?<a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h2><p>By Dec 2022 I will be publishing a new theme (which is my favourite colour) Electric Blue. I will post an update about this very soon!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="product-hunt">Product Hunt<a class="hash-link" href="#product-hunt" title="Direct link to heading">​</a></h2><p>I launched on Product Hunt a while ago but any upvotes would still really help me! <a href="https://www.producthunt.com/posts/electric-purple-vs-code-theme" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/posts/electric-purple-vs-code-theme</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="install-the-theme">Install the theme<a class="hash-link" href="#install-the-theme" title="Direct link to heading">​</a></h2><p>You can head over to the VS Code Marketplace and search "Electric Purple" or click the link below... <a href="https://marketplace.visualstudio.com/items?itemName=reece.electric-purple" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=reece.electric-purple</a></p><h4 class="anchor anchorWithStickyNavbar_mojV" id="thanks-for-reading-and-i-hope-you-enjoy-the-theme">Thanks for reading and I hope you enjoy the theme,<a class="hash-link" href="#thanks-for-reading-and-i-hope-you-enjoy-the-theme" title="Direct link to heading">​</a></h4><p>(But if you don't that's fine aswell)</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="website" term="website"/>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
